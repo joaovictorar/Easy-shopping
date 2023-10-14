@@ -111,6 +111,7 @@ header {
         width: 100%;
         position: static;
         padding: 40px;
+        margin-top: -60px;
     }
 
     img {
@@ -139,6 +140,7 @@ header {
         text-align: center;
         font-size: 14px;
         line-height: 24px;
+        opacity: 0.6;
     }
 
     button {
